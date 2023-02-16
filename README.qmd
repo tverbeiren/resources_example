@@ -23,9 +23,9 @@ git clone
 And then
 
 ```sh
-quarto render test.qmd
-quarto render test.qmd
-quarto render test.qmd
+quarto render README.qmd
+quarto render README.qmd
+quarto render README.qmd
 ```
 
 Either at the 2nd or the 3d attempt, this will fail.
