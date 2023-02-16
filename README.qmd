@@ -1,0 +1,32 @@
+---
+title: Test doc for issue 4377
+format:
+  resources_example-pdf: default
+---
+
+## Introduction
+
+This is an illustration that goes with Quarto issue [#4377](https://github.com/quarto-dev/quarto-cli/issues/4377).
+
+Image:
+
+![Image](resources/quarto.png)
+
+## Reproduce
+
+In order to reproduce the issue, please run:
+
+```sh
+git clone 
+```
+
+And then
+
+```sh
+quarto render test.qmd
+quarto render test.qmd
+quarto render test.qmd
+```
+
+Either at the 2nd or the 3d attempt, this will fail.
+
