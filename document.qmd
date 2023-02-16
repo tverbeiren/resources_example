@@ -1,0 +1,11 @@
+---
+title: Example doc
+format:
+  resources_example-pdf: default
+---
+
+Foo
+
+Image:
+
+![Image](resources/quarto.png)
